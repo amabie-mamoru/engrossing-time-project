@@ -1,0 +1,3 @@
+[submodule "EngrossingTimeProject/Packages/amabie"]
+	path = EngrossingTimeProject/Packages/amabie
+	url = git@github.com:amabie-mamoru/engrossing-time.git
